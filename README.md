@@ -1,4 +1,4 @@
-Movie Show
+<h1>Movie Show</h1>
 
 Movie Show is a web application built with React.js that displays a list of movies. Users can click on a movie to view its summary and have the option to book a movie ticket.
 
